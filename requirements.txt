@@ -1,0 +1,15 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+xgboost>=1.7
+optuna>=3.0
+tensorflow>=2.12
+keras>=2.12
+matplotlib>=3.7
+seaborn>=0.12
+openpyxl>=3.1
+joblib>=1.2
+scipy>=1.10
+tqdm>=4.65
+geopandas
+geobr
