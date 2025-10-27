@@ -1,0 +1,5 @@
+best_iteration=95
+best_val_rmse=419.87321068826736
+RMSE_test=427818.302677
+MAE_test=183.884969
+R2_test=0.418162
