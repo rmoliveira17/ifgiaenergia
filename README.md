@@ -1,5 +1,9 @@
 # ifgiaenergia
+
 Repositório destinado ao Trabalho final do Módulo 2 da Especialização em IA do IFG
+
+As pastas artefatos, contém a maioria dos resultados obtidos em relação aos modelos de ML aplicados neste trabalho. O trabalho visou realizar regressão espacial para prever o potencial de geração de energia fotovoltaica no estado de Goiás. Foram usados diversos dados, de diferentes naturezas. As pastas artefato, contém a maioria dos dados de saída e mapa. A pasta data contém informações dos dados utilizados para treinamento dos modelos de ML. 
+
 
 * Executar e instalar dependências (requirements.txt)
 
